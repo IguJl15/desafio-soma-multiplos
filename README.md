@@ -54,7 +54,7 @@ dart run
 
 ### Rodando os testes
 
-Confira o [arquivo de teste](test/console_test.dart)  unitário para visualizar as diferentes demonstrações propostas de uso das funções criadas.
+Confira o [arquivo de teste](test/desafio_test.dart)  unitário para visualizar as diferentes demonstrações propostas de uso das funções criadas.
 
 Você também pode rodar os testes para conferir se esta tudo funcionando como deveria. Para isso, execute o seguinte comando:
 
